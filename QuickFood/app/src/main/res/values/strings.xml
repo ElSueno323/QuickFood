@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">QuickFood</string>
+    <string name="back_button">Go to last screen</string>
+    <string name="button_history_description">Search history </string>
+    <string name="history_emptied">No history found</string>
+    <string name="button_search_description">New search</string>
+    <string name="button_favorites_description">My favorites</string>
+    <string name="description_empty_selected">Please Select tags OR Is a Random Tags</string>
+    <string name="description_empty_tags">Not tags found</string>
+    <string name="description_empty_favorites">Not Recipe Favorites</string>
+    <string name="button_recipe_description">Search with selected tags</string>
+    <string name="button_add_favorites_description">Add to favorites lists</string>
+    <string name="button_remove_favorites_description">Remove to favorites lists</string>
+    <string name="button_emptied_favorites_description">Emptied the favorites list</string>
+    <string name="button_emptied_histories_description">Emptied the histories</string>
+    <string name="button_refresh_description">A new random recipe</string>
+    <string name="title_Search">New Recipe</string>
+    <string name="title_Favorites">Favorites</string>
+    <string name="title_Histories">Histories</string>
+    <string name="title_subtitle_Steps">Steps</string>
+    <string name="minute_name">min</string>
+    <string name="error_connection_description">Error to connexion</string>
+    <string name="loading">Loading connexion</string>
+    <string name="api_empty_credits">Error: Don\'t have any credit left on api</string>
+
+</resources>

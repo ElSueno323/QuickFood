@@ -4,18 +4,16 @@ Ce dépôt contient les sources du projet **QuickFood**.
 
 ## Description
 
-L'application permet de trouver les recettes avec des tags , d'en recevoir une de façon aleatoire , la rajouter en favoris  ou de ressayer. 
-Chaque recette montre les ingreditens . On peut les cocher pour indiquer si on les a ou pas. Avoir le temps nécessaire a la prepation.
+L'application permet de rechercher des recettes en fonction de tags spécifiques, de recevoir une recette de manière aléatoire, de l'ajouter aux favoris ou de recommencer la recherche. Chaque recette affiche les ingrédients nécessaires, que l'utilisateur peut cocher pour indiquer s'il les possède ou non. De plus, l'application fournit une estimation du temps nécessaire à la préparation de chaque recette.
 
 ## Persistance des données
 
-Les données relatives aux comptes recettes favoris, et recherche recents sont persistées  intérieurement .Pour un avoir un accès direct si l'on a besoin 
-d'un accès sans la connexion internet.
+Les données concernant les recettes et les recherches récentes sont stockées localement pour permettre un accès direct même en l'absence de connexion Internet.
 
 
 ## Service rest
 
-Pour collecter les données relatives aux recettes,et autres details des appels au service rest suivant sont effectués : <https://spoonacular.com/food-api/>
+Pour collecter les données relatives aux recettes,et autres details des appels au service REST suivant sont effectués : <https://spoonacular.com/food-api/>
 
 ## History Project
 

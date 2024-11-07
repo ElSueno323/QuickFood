@@ -1,4 +1,4 @@
-# Projet MOBG5
+# QuickFood
 
 Ce dépôt contient les sources du projet **QuickFood**.
 

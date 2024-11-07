@@ -1,6 +1,6 @@
 # QuickFood
 
-Ce dépôt contient les sources du projet **QuickFood**.
+Ce dépôt contient les sources du projet **QuickFood** avec Kotlin.
 
 ## Description
 
